@@ -1,6 +1,6 @@
-baseURL = "https://jiekun.github.io/"
+baseURL = "https://jiekun.github.io/redis-book"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Redis实现原理"
 theme = "book"
 publishDir = "docs"
 
