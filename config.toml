@@ -2,6 +2,7 @@ baseURL = "https://jiekun.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "book"
+publishDir = "docs"
 
 [params]
    BookMenuBundle = '/menu'
