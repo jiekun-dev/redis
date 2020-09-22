@@ -1,5 +1,5 @@
 baseURL = "https://jiekun.github.io/redis"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Redis实现原理"
 theme = "book"
 publishDir = "docs"

@@ -3,115 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/</loc>
+    <loc>https://jiekun.github.io/redis/docs/server/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/table-of-contents/with-toc/</loc>
+    <loc>https://jiekun.github.io/redis/docs/cluster/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/table-of-contents/without-toc/</loc>
+    <loc>https://jiekun.github.io/redis/docs/cluster/cluster/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/cluster/codis/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/data-struct/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/table-of-contents/</loc>
+    <loc>https://jiekun.github.io/redis/docs/data-struct/radix-tree/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/collapsed/</loc>
+    <loc>https://jiekun.github.io/redis/docs/data-struct/skiplist/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/data-type/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/data-type/bitmap/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/data-type/hyperloglog/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/dev/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/dev/modules/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/dev/struct/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/execution/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/modules/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/modules/bloomfilter/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/modules/redis-cell/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/modules/redlock/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/network/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/network/multiplexing/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://jiekun.github.io/redis/docs/network/resp/</loc>
   </url>
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/example/collapsed/3rd-level/4th-level/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jiekun.github.io/redis/docs/example/collapsed/3rd-level/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jiekun.github.io/redis/docs/example/hidden/</loc>
+    <loc>https://jiekun.github.io/redis/docs/network/threaded-io/</loc>
   </url>
   
   <url>
@@ -163,7 +139,59 @@
   </url>
   
   <url>
+    <loc>https://jiekun.github.io/redis/docs/special/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/special/acls/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/special/client-side-caching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/special/diskless-replication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/storage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/storage/disk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/storage/memory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/struct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/struct/client/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/docs/struct/server/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/redis/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiekun.github.io/redis/tags/</loc>
   </url>
   
 </urlset>
