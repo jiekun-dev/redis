@@ -1,4 +1,4 @@
-baseURL = "https://jiekun.github.io/redis-book"
+baseURL = "https://jiekun.github.io/redis"
 languageCode = "en-us"
 title = "Redis实现原理"
 theme = "book"
