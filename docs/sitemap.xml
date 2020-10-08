@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jiekun.github.io/redis/docs/server/</loc>
-  </url>
-  
-  <url>
     <loc>https://jiekun.github.io/redis/docs/cluster/</loc>
   </url>
   
